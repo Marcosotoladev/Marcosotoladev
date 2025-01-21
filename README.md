@@ -9,7 +9,8 @@ Habilidades técnicas destacadas:
 * Bases de datos: MongoDB, MySQL.
 * Herramientas: Git
 
-contactame
+contacto:
 
 * [gmail](marcosotoladev@gmail.com)
 * [linkedin](https://www.linkedin.com/in/marco-sotola-7103202b3/)
+* ubicación: Córdoba, Argentina 
